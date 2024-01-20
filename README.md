@@ -27,7 +27,7 @@
 <br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
   
   
