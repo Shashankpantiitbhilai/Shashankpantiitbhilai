@@ -37,11 +37,12 @@
 <hr>
 <h1>Tools I use! 🛠️</h1>
 <Br>
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
 | ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)    | ![](https://img.shields.io/badge/VSCode-FF6F00?style=for-the-badge&logo=visual-studio-code&logoColor=blue) | ![](https://img.shields.io/badge/Scrapy-F7931E?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/badge/Atom-D00000?style=for-the-badge&logo=atom&logoColor=white)    | ![](https://img.shields.io/badge/Postman-F37626.svg?&style=for-the-badge&logo=postman&logoColor=white) |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) | ![](https://img.shields.io/badge/NodeJS-2C2D72?style=for-the-badge&logo=nodedotjs&logoColor=white)         | ![](https://img.shields.io/badge/NPM-777BB4?style=for-the-badge&logo=NPM&logoColor=white)       | ![](https://img.shields.io/badge/Bash-239120?style=for-the-badge&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
   
 
 <Br>
