@@ -5,7 +5,8 @@
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm Shashank Pant,a developer from India .
+- 🏫:Hi, I'm Shashank Pant,a  Passionate developer from India .
+[- (https://github-profile-trophy.vercel.app/?username=shashankpantiitbhilai&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green)
 
