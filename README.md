@@ -6,17 +6,22 @@
 <h1>About Me! 😎</h1>
 
 - 🏫:Hi, I'm Shashank Pant,a  Passionate developer from India .
-[- (https://github-profile-trophy.vercel.app/?username=shashankpantiitbhilai&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)
+- 🏫:Currently a Sophomore pursuing CSE at Indian Institute of Technology Bhilai .
+
+
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green)
 
 
 - 😄  Pronouns: He/His.
-
-
 <br>
 <hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashankpantiitbhilai&theme=juicyfresh&column=9)]
+<hr>
+
 <br>
+
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 <p align="center">
