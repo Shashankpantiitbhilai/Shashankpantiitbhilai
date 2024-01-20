@@ -31,13 +31,11 @@
 <br>
 <hr>
 <br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">Tech Stats! 🤸‍♂</h1>
 <Br>
-<a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)">
-   |
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpantiitbhilai&layout=donut)](https://github.com/shashankpantiitbhilai/github-readme-stats)
+
 <Br>
 <hr>
 <h1>Tools I use! 🛠️</h1>
