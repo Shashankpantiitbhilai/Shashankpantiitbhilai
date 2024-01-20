@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-  <h1 align="center">I'm <a href="https://github.com/dev-elixir">Shashank Pant<a><img src="./images/wave.gif" width="60px"/></h1>
+  <h1 align="center"> 🏫:Hi, I'm Shashank Pant,a  Passionate developer from India .<a><img src="./images/wave.gif" width="60px"/></h1>
 </p>
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫:Hi, I'm Shashank Pant,a  Passionate developer from India .
+
 - 🏫:Currently a Sophomore pursuing CSE at Indian Institute of Technology Bhilai .
 
 
-
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green&align=center" alt="Shashank's GitHub stats">
+</p>
 
 - 😄  Pronouns: He/His.
 <br>
@@ -31,49 +31,40 @@
 <br>
 <hr>
 <br>
-<h1 align="center">Tech Stats! 🤸‍♂</h1>
-<Br>
+<p align="center">
+  <h1>Tech Stats! 🤸‍♂</h1>
+</p>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpantiitbhilai&layout=donut)](https://github.com/shashankpantiitbhilai/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpantiitbhilai&layout=compact" alt="Top Languages">
+</p>
+<br>
 
-<Br>
 <hr>
 <h1>Tools I use! 🛠️</h1>
 <Br>
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- 
-| ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)    | ![](https://img.shields.io/badge/VSCode-FF6F00?style=for-the-badge&logo=visual-studio-code&logoColor=blue) | ![](https://img.shields.io/badge/Scrapy-F7931E?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/badge/Atom-D00000?style=for-the-badge&logo=atom&logoColor=white)    | ![](https://img.shields.io/badge/Postman-F37626.svg?&style=for-the-badge&logo=postman&logoColor=white) |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) | ![](https://img.shields.io/badge/NodeJS-2C2D72?style=for-the-badge&logo=nodedotjs&logoColor=white)         | ![](https://img.shields.io/badge/NPM-777BB4?style=for-the-badge&logo=NPM&logoColor=white)       | ![](https://img.shields.io/badge/Bash-239120?style=for-the-badge&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+  <img src="https://img.shields.io/badge/Mongoose-880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose Badge">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+</p>
 
   
 
 <Br>
 <hr>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=elixir-redmi2)](https://github.com/dev-elixir/elixir-redmi2)
-|
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=google-service)](https://github.com/dev-elixir/google-service)
-|
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=dev-elixir.github.io)](https://dev-elixir.github.io)
-|
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=TicTac-game)](https://github.com/dev-elixir/TicTac-game)
-|
-<Br>
-<Br>
-<hr>
-<br>
-<br>
-<h1>GitHub Stats! 📊</h1>
-<br>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=dev-elixir&show_icons=true&theme=merko)](https://github.com/dev-elixir/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-elixir&layout=compact&theme=merko)](https://github.com/dev-elixir)
-<br>
-<hr>
+
 <br>
 <h1>Thank You! 🤵 </h1>
   
