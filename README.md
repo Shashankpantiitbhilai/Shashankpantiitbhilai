@@ -32,7 +32,7 @@
 <hr>
 <br>
 <p align="center">
-  <h1>Tech Stats! 🤸‍♂</h1>
+  <h1>Most Used Languages! 🤸‍♂</h1>
 </p>
 <br>
 
