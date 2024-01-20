@@ -7,7 +7,7 @@
 
 - 🏫: I'm Shashank Pant,a developer from India .
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankpantiitbhilai&show_icons=true&theme=blue-green)
 
 
 - 😄  Pronouns: He/His.
