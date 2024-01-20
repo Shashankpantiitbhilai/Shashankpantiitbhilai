@@ -5,12 +5,12 @@
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm Shashank Pant,a developer from Inda .
-
-- 🌱: I’m currently learning Web Scraping and Node.js. 🧠💻🤖
+- 🏫: I'm Shashank Pant,a developer from India .
 
 
-- 😄  Pronouns: He/His
+
+
+- 😄  Pronouns: He/His.
 
 
 <br>
