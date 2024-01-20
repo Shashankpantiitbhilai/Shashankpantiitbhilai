@@ -68,5 +68,4 @@
 <br>
 <h1>Thank You! 🤵 </h1>
   
-Creator: [@bhi](https://github.com/dev-elixir)
-Last Edited on: 26/02/2022
+
