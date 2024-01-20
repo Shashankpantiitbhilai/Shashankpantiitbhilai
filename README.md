@@ -28,9 +28,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-| ![](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge) | ![](https://img.shields.io/badge/C-Sharp-brightgreen?style=for-the-badge) | ![](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge) | ![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge) | ![](https://img.shields.io/badge/PostgreSQL-red?style=for-the-badge)     |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge)  | ![](https://img.shields.io/badge/.NET-blue?style=for-the-badge)           | ![](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge)       | ![](https://img.shields.io/badge/Unix-Bash-blue?style=for-the-badge)     | ![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge) |
+
   
   
 <Br>
