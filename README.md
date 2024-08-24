@@ -17,7 +17,7 @@
 <br>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashankpantiitbhilai&theme=juicyfresh&column=9)]
+![trophy](https://github-profile-trophy.vercel.app/?username=shashankpantiitbhilai&theme=juicyfresh&column=9)
 <hr>
 
 <br>
