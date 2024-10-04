@@ -6,7 +6,7 @@
 <h1>About Me! 😎</h1>
 
 
-- 🏫:Currently a Sophomore pursuing CSE at Indian Institute of Technology Bhilai .
+- 🏫:Currently a pre-final year student pursuing CSE at Indian Institute of Technology Bhilai .
 
 
 <p align="center">
