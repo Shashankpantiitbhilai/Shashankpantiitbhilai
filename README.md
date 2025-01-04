@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green&align=center" alt="Shashank's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&theme=blue-green&align=center&rank_icon=github" alt="Shashank's GitHub stats">
 </p>
 
 - 😄  Pronouns: He/His.
